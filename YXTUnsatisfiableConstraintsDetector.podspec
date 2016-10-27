@@ -29,7 +29,7 @@ This tool is intended for debugging only, and has not been designed for producti
   s.source           = { :git => "https://github.com/yext/YXTUnsatisfiableConstraintsDetector.git", :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
-  s.platform     = :ios, '8.0'
+  s.platform     = :ios, '8.3'
   s.requires_arc = true
 
   s.source_files = 'Pod/Classes/**/*'
