@@ -33,9 +33,9 @@ This tool is intended for debugging only, and has not been designed for producti
   s.requires_arc = true
 
   s.source_files = 'Pod/Classes/**/*'
-  s.resource_bundles = {
-    'YXTUnsatisfiableConstraintsDetector' => ['Pod/Assets/*.png']
-  }
+  # s.resource_bundles = {
+  #  'YXTUnsatisfiableConstraintsDetector' => ['Pod/Assets/*.png']
+  # }
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
   # s.frameworks = 'UIKit', 'MapKit'
